@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Kotlin, Java**
 
 - 👯 I’m looking to collaborate on **web applications project**
 
-- 💬 Ask me about **PHP, SQL,HTML**
+- 💬 Ask me about **PHP, SQL,HTML, Python**
 
 - 📫 How to reach me **kwilfred362@gmail.com**
 
