@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **web applications project**
 
-- 💬 Ask me about **PHP, SQL**
+- 💬 Ask me about **PHP, SQL,HTML**
 
 - 📫 How to reach me **kwilfred362@gmail.com**
 
