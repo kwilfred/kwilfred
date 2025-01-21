@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm kiprotich wilfred</h1>
-<h3 align="center">A passionate software developer from Kenya</h3>
+<h3 align="center">A passionate software engineer from Kenya</h3>
 <img align="right" alt="Coding" widh="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxTN3Nu29VSIcpvoSYl9dt3s0emy6ikQWg4fLdkGNRA&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kwilfred&label=Profile%20views&color=0e75b6&style=flat" alt="kwilfred" /> </p>
@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin, Java**
+- 🌱 I’m currently learning **Kotlin, Next.jx, Express**
 
 - 👯 I’m looking to collaborate on **web applications project**
 
-- 💬 Ask me about **JAVASCRIPT,PHP, SQL,HTML, Python**
+- 💬 Ask me about **JAVASCRIPT,PHP, SQL,HTML, React, Typescript, Python**
 
-- 📫 How to reach me **kwilfred362@gmail.com**
+- 📫 How to reach me **kwilfred362@gmail.com / kiprotich.wilfred@students.kyu.ac.ke**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
